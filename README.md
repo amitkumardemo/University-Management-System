@@ -104,3 +104,49 @@ University Management System/
 │   └── rs2xml.jar                         # Library for displaying result sets in JTable
 ├── build.xml                          # Build configuration file
 └── manifest.mf                        # Manifest file
+
+```
+## 🗄️ Database Structure
+### Tables
+1. Login - Stores user credentials for system access.
+2. Student - Records details about each student.
+3. Teacher - Records details about each teacher.
+4. StudentLeave - Stores student leave applications.
+5. TeacherLeave - Stores faculty leave applications.
+6. Subject - Contains subjects assigned to students by semester.
+7. Marks - Records students' marks for each subject.
+8. Fee - Stores course fee details.
+9. CollegeFee - Tracks individual student fee payments
+
+### 💻 Usage
+1. Student Enrollment: Admins can add and manage student records, including course and subject enrollment.
+2. Fee Management: Admins set course fees and track student payments.
+3. Leave Tracking: Admins can record leave requests for both students and teachers.
+4. Marks Entry: Faculty can add marks for students for each subject.
+
+## Screenshots 📷
+
+Here are some screenshots of the University Management System:
+
+### 1. Login Page 📷
+![Login Page](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/Login%20Page)
+
+### 2. Dashboard 📷
+![Dashboard](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/Main%20Page)
+
+### 3. Teacher Management Page 📷
+
+![Student Management](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/New%20Teacher%20Page)
+
+### 4. Student Management Page 📷
+![Course Management](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/Student%20Page)
+
+### 5. Update Management page 📷
+![Faculty Management](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/Update%20Teacher%20Details)
+
+### 6. Leave Management page 📷
+![Reporting](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/Apply%20Leave%20Page)
+
+### 7. About Developer Page 📷
+![About Developer Pae](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/About%20Developer)
+
