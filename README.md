@@ -42,7 +42,25 @@ Open your terminal and run the following command to clone the repository:
 ```bash
 git clone https://github.com/yourusername/university-management-system.git
 cd university-management-system
+```
 
+### 2. Setup Database 
+1. Import the universitymanagementsystem.sql file into your MySQL database.
+2. Run each SQL command provided in the /sql/ directory to create the necessary tables and insert initial data
+
+### 3. Configure Database Connection
+Edit the database configuration in the Conn.java file located in the src/university/management/system/university/ directory. Update the database URL, username, and password as per your MySQL setup.
+
+### 4.Start the Application
+1. Open the project in your preferred development environment (such as NetBeans or IntelliJ IDEA).
+2. Compile and run the main application file (e.g., Project.java) found in the src/university/management/system/university/ directory.
+
+### 5. Finally Host your Project
+
+1. on the top you see a run button go on run button and click Clean and build button to host
+2. After you click to host it start to host your project and save it the name of dist file 
+3. Now your project is host you open your project on clicking dist file only without open your code editor.
+   
 ## 📂 Folder Structure
 
 The following is the folder structure for this project:
