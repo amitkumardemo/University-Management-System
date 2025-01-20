@@ -19,7 +19,7 @@ A comprehensive **University Management System** designed to streamline student 
 ---
 
 ## 📘 About
-The **University Management System** is a database-driven project that simplifies the management of student and faculty data, fee records, subjects, marks, and leaves, all within a single platform. It’s built using **MySQL** for database management, making it efficient and scalable for universities of all sizes
+The **University Management System** is a database-driven project that simplifies the management of student and faculty data, fee records, subjects, marks, and leaves, all within a single platform. It’s built using **MySQL** for database management, making it efficient and scalable for universities of all sizes.
 
 ---
 
