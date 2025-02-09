@@ -2,7 +2,7 @@
 
 A comprehensive **University Management System** designed to streamline student and faculty data management, academic tracking, fee handling, and more. This system offers a centralized database solution to manage and optimize various university operations with ease.
 
-![University Management System Banner](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/Main%20Page)....................
+![University Management System Banner](https://github.com/amitkumardemo/University-Management-System/blob/main/Images/Main%20Page)...................
 
 ---
 
